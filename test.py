@@ -3,4 +3,4 @@ def XinChao():
 
 
 def Hello():
-    print("Hello")
+    print("eNKay")
