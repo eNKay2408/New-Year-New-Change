@@ -1,1 +1,6 @@
-print("Xin chao the gioi")
+def XinChao():
+    print("Xin chao")
+
+
+def Hello():
+    print("Hello")
