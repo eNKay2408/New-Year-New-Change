@@ -1,5 +1,5 @@
-def NguyenKhai():
-    print("Nguyen Khai")
+def eNKay():
+    print("eNKay")
 
 
 def Hello():
