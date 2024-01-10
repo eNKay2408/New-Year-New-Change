@@ -3,4 +3,4 @@ def NguyenKhai():
 
 
 def Hello():
-    print("eNKay")
+    print("Hello world with eNKay")
